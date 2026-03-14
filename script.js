@@ -8,4 +8,4 @@ b.innerHTML = "shreyash srivastava"
 
 var c = document.querySelector("h3")
 
-b.innerHTML = "kaaaa reeeeeee"
+b.innerHTML = "kaaaa reeeeeeee"
